@@ -1,0 +1,15 @@
+﻿{
+  "dependencies": {
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
+    "Newtonsoft.Json": "7.0.1",
+    "System.Runtime": "4.1.0",
+    "Win2D.uwp": "1.6.0"
+  },
+  "frameworks": {
+    "uap10.0": {}
+  },
+  "runtimes": {
+    "win10-x86": {},
+    "win10-x86-aot": {}
+  }
+}

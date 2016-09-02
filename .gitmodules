@@ -1,0 +1,8 @@
+[submodule "OpenGL.Net"]
+	path = OpenGL.Net
+	url = https://github.com/lwansbrough/OpenGL.Net
+	branch = master
+[submodule "angle"]
+	path = angle
+	url = https://github.com/Microsoft/angle.git
+	branch = ms-holographic-experimental
