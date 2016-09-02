@@ -27,7 +27,7 @@ simply wouldn't make sense to try and fit that into this project.
 
 ## Instructions
 
-Aquiring the necessary pieces to build this project is a bit of a task. You'll need a few things:
+Aquiring the necessary pieces to build this project is a bit of a task. You'll need a few things (notice these are included as submodules):
 
 - Microsoft's HoloLens ANGLE branch: https://github.com/microsoft/angle/tree/ms-holographic-experimental
 - My fork of OpenGL.Net which supports UWP applications: https://github.com/lwansbrough/OpenGL.Net
