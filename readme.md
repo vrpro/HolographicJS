@@ -18,7 +18,7 @@ HolographicJS is built atop large open source efforts, including:
 purposes)
 - OpenGL by Khronos Group.
 - [OpenGL.Net](https://github.com/luca-piccioni/OpenGL.Net) by [luca-piccioni](https://github.com/luca-piccioni)
-- [JsBridge](https://github.com/lzyzsd/JsBridge) -- The ChakraBridge implementation is heavily borrowed from [@lzyzsd](https://github.com/lzyzsd)'s project  
+- [JsBridge](https://github.com/deltakosh/JsBridge) -- The ChakraBridge implementation is heavily borrowed from [@deltakosh](https://github.com/deltakosh)'s project  
 which is an excellent demonstration of how to use ChakraCore in C#.
 
 The goal of this project is to achieve rendering HoloLens holograms using Javascript with minimal or no adjustments to existing projects. Where required,
